@@ -1,0 +1,2 @@
+ERRORS:
+bot.Tg_user: (fields.E180) SQLite does not support JSONFields.
